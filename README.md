@@ -52,6 +52,11 @@ Projet transversal réalisé en équipe dans le cadre de ma première année de 
 - Configuration de VLANs
 - Tests de connectivité entre équipements
 
+## Aperçu 
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0f0d8e3e-6bf9-4965-95d2-b446d5686a4a" />
+
+
 ## Auteur
 
 Réalisé par Mana, étudiant en Bachelor Informatique et Systèmes Digitaux à l'EPSI.
